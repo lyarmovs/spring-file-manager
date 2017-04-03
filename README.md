@@ -2,6 +2,7 @@
 Demo project for spring boot document file manager
 
 REST Services spring-boot application demo:
+
 • Uploads a file with text description, stores the file on a file system and file metadata into in-memory database
 
 • provides services to retrieve file metadata
